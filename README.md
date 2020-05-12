@@ -1,3 +1,7 @@
+Fork changes:
+
+- Remove default ftplugins (I use pandoc which takes RST syntax which I think looks better)
+
 # VIM Table Mode v4.7.1.1 [![Build Status](https://travis-ci.org/dhruvasagar/vim-table-mode.png?branch=master)](https://travis-ci.org/dhruvasagar/vim-table-mode)
 
 An awesome automatic table creator & formatter allowing one to create neat
